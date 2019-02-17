@@ -1,6 +1,7 @@
-Thanks for downloading this theme!
+Welcome Toastmasters District108 - page!
 
-Theme Name: TheEvent
-Theme URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+This page is dedicated to:
+PICTURE IT! WROCLAW TOASTMASTERS INTERNATIONAL DISTRICT 108 SPRING CONFERENCE.
+
+Which will happen:
+10-12 May 2019, Novotel Wroclaw Centrum, Wroclaw
