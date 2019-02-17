@@ -622,6 +622,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
 }
 
+#intro .district108 img {
+  padding: 0;
+  margin: 0;
+  max-height: 250px;
+}
+
 @-webkit-keyframes pulsate-btn {
   0% {
     -webkit-transform: scale(0.6, 0.6);
