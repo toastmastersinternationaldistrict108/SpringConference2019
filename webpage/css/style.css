@@ -1394,6 +1394,82 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /*--------------------------------------------------------------
+# Buy Tickets Section
+--------------------------------------------------------------*/
+
+#organizers {
+  padding: 60px 0;
+}
+
+#organizers .card {
+  border: none;
+  border-radius: 5px;
+  transition: all  0.3s ease-in-out;
+  box-shadow: 0 10px 25px 0 rgba(6, 12, 34, 0.1);
+}
+
+#organizers .card:hover {
+  box-shadow: 0 10px 35px 0 rgba(6, 12, 34, 0.2);
+}
+
+#organizers .card hr {
+  margin: 25px 0;
+}
+
+#organizers .card .card-title {
+  margin: 10px 0;
+  font-size: 14px;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+#organizers .card .card-price {
+  font-size: 48px;
+  margin: 0;
+}
+
+#organizers .card ul li {
+  margin-bottom: 20px;
+}
+
+#organizers .card .text-muted {
+  opacity: 0.7;
+}
+
+#organizers .card .btn {
+  font-size: 15px;
+  border-radius: 50px;
+  padding: 10px 40px;
+  transition: all 0.2s;
+  background-color: #f82249;
+  border: 0;
+  color: #fff;
+}
+
+#organizers .card .btn:hover {
+  background-color: #e0072f;
+}
+
+#organizers #organizers-modal input,
+#organizers #organizers-modal select {
+  border-radius: 0;
+}
+
+#organizers #organizers-modal .btn {
+  font-size: 15px;
+  border-radius: 50px;
+  padding: 10px 40px;
+  transition: all 0.2s;
+  background-color: #f82249;
+  border: 0;
+  color: #fff;
+}
+
+#organizers #organizers-modal .btn:hover {
+  background-color: #e0072f;
+}
+
+/*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
 
