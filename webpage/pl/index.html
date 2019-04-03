@@ -30,6 +30,9 @@
     <link href="../lib/venobox/venobox.css" rel="stylesheet">
     <link href="../lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
 
+    <!-- Cookie policy info css -->
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+
     <!-- Main Stylesheet File -->
     <link href="../css/style.css" rel="stylesheet">
 
@@ -747,6 +750,27 @@
 
 <!-- Template Main Javascript File -->
 <script src="../js/main.js"></script>
+
+<!-- Cookie Policy info -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+    window.addEventListener("load", function(){
+        window.cookieconsent.initialise({
+            "palette": {
+                "popup": {
+                    "background": "#060c22"
+                },
+                "button": {
+                    "background": "#f82249"
+                }
+            },
+            "showLink": false,
+            "content": {
+                "message": "Ta strona korzysta z ciasteczek aby świadczyć usługi na najwyższym poziomie.",
+                "dismiss": "Rozumiem"
+            }
+        })});
+</script>
 </body>
 
 </html>
